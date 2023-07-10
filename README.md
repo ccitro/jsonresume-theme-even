@@ -1,3 +1,7 @@
+Fork of jsonresume-theme-even, with some personalization / customization.
+
+Original docs follows:
+
 # jsonresume-theme-even
 
 [![npm package version](https://img.shields.io/npm/v/jsonresume-theme-even.svg)](https://www.npmjs.com/package/jsonresume-theme-even)

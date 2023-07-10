@@ -1,7 +1,7 @@
 {
-  "name": "jsonresume-theme-even",
+  "name": "jsonresume-theme-noodle",
   "version": "0.18.1",
-  "description": "A flat theme for JSON Resume, compatible with the bleeding edge resume schema",
+  "description": "A flat theme for JSON Resume, forked from jsonresume-theme-even",
   "keywords": [
     "resume",
     "json",
@@ -10,13 +10,13 @@
     "curriculum-vitae",
     "cv"
   ],
-  "homepage": "https://jsonresume-theme-even.rbrd.in/",
+  "homepage": "https://github.com/ccitro/jsonresume-theme-noodle/",
   "bugs": {
-    "url": "https://github.com/rbardini/jsonresume-theme-even/issues"
+    "url": "https://github.com/ccitro/jsonresume-theme-noodle/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rbardini/jsonresume-theme-even"
+    "url": "https://github.com/ccitro/jsonresume-theme-noodle"
   },
   "license": "MIT",
   "author": "Rafael Bardini",
@@ -30,7 +30,7 @@
   "module": "./dist/index.js",
   "source": "index.js",
   "bin": {
-    "jsonresume-theme-even": "bin/cli.js"
+    "jsonresume-theme-noodle": "bin/cli.js"
   },
   "files": [
     "bin",
